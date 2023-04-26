@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{A8526676-135F-8A11-1A37-73E8602F0EBF}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="762bfff1-617b-450f-807c-fdc01584f005" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HealthBar.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Gun.cs" />
+      <File FileName="Assets/Scripts/PlayerController.cs" />
+      <File FileName="Assets/Scripts/PlayerHealth.cs" />
+      <File FileName="Assets/Scripts/TextChanger.cs" Line="10" Column="16" />
+      <File FileName="Assets/Scripts/HealthBar.cs" Line="11" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
